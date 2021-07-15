@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\opengl\模型加载\opengl_assimp\opengl_assimp\main.cpp(143): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\模型加载\opengl_assimp\opengl_assimp\main.cpp(144): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\模型加载\opengl_assimp\opengl_assimp\main.cpp(149): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\模型加载\opengl_assimp\opengl_assimp\main.cpp(150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\模型加载\opengl_assimp\opengl_assimp\main.cpp(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\opengl\模型加载\opengl_assimp\opengl_assimp\main.cpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc120.pdb”(使用“glew32s.lib(glew.obj)”或在“D:\OPENGL\模型加载\OPENGL_ASSIMP\Debug\vc120.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  OPENGL_ASSIMP.vcxproj -> D:\OPENGL\模型加载\OPENGL_ASSIMP\Debug\OPENGL_ASSIMP.exe
